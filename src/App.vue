@@ -4,10 +4,13 @@
 		<header>
 			<Top />
 		</header>
-		<main style="padding-top: 10px;">
+		<main>
 			<router-view></router-view>
-			<Bottom />
+
 		</main>
+		<footer>
+			<Bottom />
+		</footer>
 	</div>
 </template>
 
@@ -24,4 +27,9 @@ export default {
 	}
 };
 </script>
-<style scoped></style>
+<style scoped>
+main {
+	padding-bottom: 80px;
+	padding-top: 10px;
+}
+</style>

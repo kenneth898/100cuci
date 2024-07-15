@@ -15,7 +15,7 @@
 					<div class="menu_col">
 						<ul style="display: flex;" class=" nav nav-pills">
 							<li class="nav-item">
-								<a class="nav-link active" href="#game"><span style="font-weight: bolder;">SLOT
+								<a class="nav-link active" href="#game"><span style="font-weight: 600;">SLOT
 										GAME</span></a>
 							</li>
 							<li class="nav-item">
@@ -34,7 +34,7 @@
 					</div>
 
 
-					<div id="game" style="padding-bottom: 10px;" class="main-col">
+					<div id="game" style="padding-bottom: 30px;" class="main-col">
 						<img width="100%" src="/public/image/mega888.png">
 						<img width="100%" src="/public/image/power.png">
 						<img width="100%" src="/public/image/uuslots.png">
@@ -151,12 +151,12 @@
 								<p>Start playing the 100Cuci game online and win real money.</p>
 							</li>
 							<li>
-								<p>Withdraw your winning from 100Cuci ewallet.</p>
+								<p>Withdraw your winning from <b>100Cuci ewallet.</b></p>
 							</li>
 						</ol>
 
 						<p>Remember, join the 100Cuci Telegram group to get the latest bonus or news update.</p>
-						<br>
+
 
 						<p>As a leading online casino in Malaysia, Cuci100 caters to the unique preferences of players
 							in
@@ -172,25 +172,23 @@
 							Lumpur, Malaysia</p>
 
 
-
 						<p class="maps">
-							<a style="color: #F0D843;"
+							<a style="color: #F0D843; text-decoration-color: black;"
 								href="https://maps.app.goo.gl/Yk1sdaktbaEaZXDD6"><strong>https://maps.app.goo.gl/Yk1sdaktbaEaZXDD6</strong></a>
 						</p>
 
-						<p>
+						<p style="width: 200px; height: 100px;">
 							<iframe
 								src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d31872.4093470772!2d101.674628!3d3.081017!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1svi!2sus!4v1720749822553!5m2!1svi!2sus"
-								width="200" height="200" style="border:0;" allowfullscreen="" loading="lazy"
+								width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
 								referrerpolicy="no-referrer-when-downgrade"></iframe>
 						</p>
 
 
+						<p><a href="https://www.dmca.com/Protection/Status.aspx?ID=1cf5d6f7-4fbe-4514-98c8-b0e0f23439b1&refurl=https://100cuci.info/"
+								target="_blank"><img src="/public/image/dmca_protected_sml_120c.png"></a></p>
 
-						<a href="https://www.dmca.com/Protection/Status.aspx?ID=1cf5d6f7-4fbe-4514-98c8-b0e0f23439b1&refurl=https://100cuci.info/"
-							target="_blank"><img src="/public/image/dmca_protected_sml_120c.png"></a>
-
-						<h3>Learn more about our big parner:</h3>
+						<h5>Learn more about our big parner:</h5>
 						<p><a class="text2" href="https://www.winbox88my1.com/winbox-login">Winbox Login</a> 3.0 |
 							Winbox
 							Mobile
@@ -211,7 +209,6 @@
 							thousands of games.</p>
 					</div>
 				</div>
-
 
 				<!--right-->
 				<div style="padding: 0px;" class="col-sm-12 col-md-3 mobile_col">
@@ -264,7 +261,7 @@ export default {
 
 .menu-text {
 	color: #666666D9;
-	font-weight: 700;
+	font-weight: 600;
 }
 
 .menu_col {
@@ -275,7 +272,7 @@ export default {
 	display: grid;
 	grid-template-columns: repeat(6, 1fr);
 	justify-items: center;
-	gap: 0.8rem;
+	gap: 1.3rem;
 }
 
 .main-col img {
@@ -320,9 +317,5 @@ export default {
 	text-decoration: none;
 	font-weight: bolder;
 	color: #F0D843
-}
-
-.text-column {
-	padding-bottom: 100px;
 }
 </style>

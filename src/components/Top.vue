@@ -27,14 +27,14 @@ export default {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 13vh;
+	height: 20vh;
 	width: 100%;
 	align-content: center;
 }
 
-@media screen and (max-width: 426px) {
+@media screen and (max-width: 425px) {
 	.top_bg {
-		height: 8vh;
+		height: 6vh !important;
 	}
 
 }
@@ -42,6 +42,10 @@ export default {
 @media screen and (max-width:768px) {
 	.logo-img {
 		width: 16% !important;
+	}
+
+	.top_bg {
+		height: 10vh;
 	}
 }
 
