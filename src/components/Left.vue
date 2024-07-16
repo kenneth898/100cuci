@@ -50,6 +50,8 @@
 					<img width="100%" src="/public/image/free_video_xxx.gif">
 					<!--Predit & Win-->
 					<img width="100%" src="/public/image/predict&win.gif">
+
+
 				</div>
 			</div>
 		</div>
