@@ -13,22 +13,30 @@
 				<!--center-->
 				<div class="col-sm-12 col-md-6 mobile_col2">
 					<div class="menu_col">
-						<ul style="display: flex;" class=" nav nav-pills">
+						<ul style="display: flex; padding-top: 10px;" class=" nav nav-pills">
 							<li class="nav-item">
-								<a class="nav-link active" href="#game"><span style="font-weight: 600;">SLOT
-										GAME</span></a>
+								<a class="nav-link active" data-bs-toggle="pill" @click="scrollTo('game')">
+									SLOT
+									GAME</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#tab-go-down"><span class="menu-text">EVENT GAME</span></a>
+								<a class="nav-link" data-bs-toggle="pill" @click="scrollTo('tab-go-down')">
+									EVENT
+									GAME</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#tab-go-down"><span class="menu-text">EVENT GAME</span></a>
+								<a class="nav-link" data-bs-toggle="pill" @click="scrollTo('tab-go-down')">
+									EVENT
+									GAME</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#tab-go-down"><span class="menu-text">LIVE CASINO</span></a>
+								<a class="nav-link" data-bs-toggle="pill" @click="scrollTo('tab-go-down')">
+									LIVE
+									CASINO</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#tab-go-down"><span class="menu-text">SPORTBOOK</span></a>
+								<a class="nav-link" data-bs-toggle="pill" @click="scrollTo('tab-go-down')">
+									SPORTBOOK</a>
 							</li>
 						</ul>
 					</div>
@@ -76,144 +84,165 @@
 					</div>
 
 					<div id="tab-go-down" class="text-column">
-						<h3>100Cuci: The Trusted Top Online Casino in Malaysia</h3>
-						<p>Welcome to <a class="text" href="#">100Cuci</a>, one of the top local online casinos in
-							Malaysia.
-							Whether you’re a
-							pro or just
-							starting out, we’ve got something waiting for you. Sign up and play 100Cuci game online to
-							enjoy
-							free credit RM2 daily for all our slot games.</p>
+						<h1>100Cuci - Experience Malaysia's Most Trusted & Reliable Online Casino</h1>
+						<p><a class="text" href="https://www.100-cuci.com/">100Cuci</a> is your go-to destination for an
+							exciting and secure online gambling experience tailored specifically for asia players. With
+							a wide variety of games, attractive bonuses, and top-notch customer service, 100cuci ensures
+							that every player enjoys a seamless and rewarding gaming adventure. Register now
+							at <b>100Cuci Casino Malaysia</b> and get RM2 daily free credit for all your favorite slot
+							games.
+						</p>
 
-						<h3>100Cuci Game Online Selection</h3>
-						<p>We offer a diverse range of games to suit every preference. Let’s check it out!</p>
+						<br>
 
-						<h5>Slot Game</h5>
-						<p><b>100Cuci</b> slot game is one of the most popular games on our platform. We have more than
-							a
-							hundred slot
-							games with high RTP for you to play. You may find popular slot game providers like Jili,
-							JDB,
-							918Kiss, and Mega888.</p>
+						<h2>100Cuci Game Online Extensive Selection</h2>
+						<p>At 100cuci, you'll find a vast array of games to suit every preference. Our offerings
+							include:</p>
 
-						<h5>Live Casino</h5>
-						<p>Step into the <b>100Cuci</b> live casino game! We have a wide range of live casino games like
-							blackjack,
-							roulette, baccarat, and poker. You can also interact with our friendly dealers and play in
-							real
-							time.</p>
-						<p>Most of the games are accessible via browsers, so you can enjoy all the 100cuci game online
-							without
-							downloading any app!</p>
+						<h3>Slot Games: </h3>
+						<p>As a famous <b>100cuci ewallet slot</b> casino platform, from classic three-reel slots to
+							feature-packed video slots, you can enjoy <b>100Cuci slot</b> games from top providers like
+							Jili,
+							JDB, Mega888, and 918Kiss with high RTP slot games.
+						</p>
 
-						<h3>100Cuci Free Credit Bonus</h3>
-						<p>There is various exciting bonuses waiting you, claim it now at <b>100Cuci Casino Malaysia
-								:</b>
+						<h3>Live Dealer Games:</h3>
+						<p>Experience the thrill of real-time gaming with <b>100Cuci live</b> dealer options, including
+							blackjack, roulette, and baccarat.</p>
+
+						<h3>Sports Betting:</h3>
+						<p>Bet on your favorite sports, including football, basketball, tennis, and more, with
+							competitive odds. You can choose to download the <b>100Cuci app</b> for a more user-friendly
+							interface or use it without downloading.
+						</p>
+
+						<br>
+
+						<h2>100Cuci Free Credit Bonus - Generous Bonuses and Promotions
+						</h2>
+						<p>We believe in rewarding our players. New members can enjoy a welcome bonus upon registration
+							and daily free credits just for logging in. Our ongoing promotions include:
 						</p>
 						<ul>
 							<li>
-								<p>New Register Free RM5 with no turnover and rollover.</p>
+								<p><b>Welcome Bonus</b>: As long as you register and join telegram, you will be able to
+									claim
+									RM5 <b>100Cuci Free Credit</b> No Deposit bonus for new users.</p>
 							</li>
 							<li>
-								<p>RM2 <b>100Cuci Free Credit</b> for 365 days with daily 1 times.</p>
+								<p><b>Daily Free Credits</b>: <b>100cuci login</b> 365 days to earn free credits of RM2
+									each day.
+								</p>
 							</li>
 							<li>
-								<p>Free Spin with just RM1 deposit only</p>
+								<p><b>Reload Bonuses and Cashback Offers</b>: Regular promotions to keep your gameplay
+									exciting.
+								</p>
 							</li>
 						</ul>
 
-						<h3>Supported Payment Method</h3>
-						<p><b>100Cuci Asia</b> offers a variety of payment options for Malaysian players. From popular
-							e-wallets
-							like
-							GrabPay and Touch ‘n Go to online banking transfers via Maybank, CIMB, and Public Bank. You
-							can
-							always enjoy fast and secure deposits with no withdrawal limit in 100Cuci casino online!</p>
+						<br>
 
-						<h3>Get Started 100Cuci Net</h3>
-						<p>There are just a few simple steps to start your online casino experience with us, check it
-							out:
-						</p>
-						<ol>
-							<li>
-								<p>Visit our official website: 100cuci.info</p>
-							</li>
-							<li>
-								<p>Sign up for an account with a phone number.</p>
-							</li>
-							<li>
-								<p>Access <b>100Cuci log in</b> to claim free credits if newly registered players.</p>
-							</li>
-							<li>
-								<p>Explore all the casino games.</p>
-							</li>
-							<li>
-								<p>Start playing the 100Cuci game online and win real money.</p>
-							</li>
-							<li>
-								<p>Withdraw your winning from <b>100Cuci ewallet.</b></p>
-							</li>
-						</ol>
-
-						<p>Remember, join the 100Cuci Telegram group to get the latest bonus or news update.</p>
-
-
-						<p>As a leading online casino in Malaysia, Cuci100 caters to the unique preferences of players
-							in
-							the
-							region. We constantly offer an exciting gaming experience for all our players. Sign up and
-							claim
-							<b>100Cuci free kredit</b> now!
+						<h2>Secure and Reliable</h2>
+						<p>Player security is our top priority. 100cuci employs advanced encryption technologies to
+							protect your personal and financial information. Our platform is designed to provide a fair
+							and transparent gaming environment.
 						</p>
 
-						<p><b>Address office:</b> 326, Jln Sepakat 8, Taman United, 58200 Kuala Lumpur, Wilayah
-							Persekutuan
-							Kuala
-							Lumpur, Malaysia</p>
+						<br>
 
+						<h2>Customer Support
+						</h2>
+						<p>At 100Cuci, we provide 24/7 customer support to ensure all your queries are addressed
+							promptly. You can reach our support team via:
 
-						<p class="maps">
-							<a style="color: #F0D843; text-decoration-color: black;"
-								href="https://maps.app.goo.gl/Yk1sdaktbaEaZXDD6"><strong>https://maps.app.goo.gl/Yk1sdaktbaEaZXDD6</strong></a>
+						</p>
+						<ul>
+							<li>
+								<p><b>Live Chat</b>: Accessible directly from our website for instant assistance.
+								</p>
+							</li>
+							<li>
+								<p><b>WhatsApp</b>: Save our number and message us anytime.
+								</p>
+							</li>
+							<li>
+								<p><b>Telegram</b>: Secure and private messaging with our support team.
+								</p>
+							</li>
+						</ul>
+
+						<br>
+
+						<h3>Localized for Malaysian Players</h3>
+						<p><b>100Cuci Casino</b> is deeply rooted in Malaysian culture, offering support in Malay and
+							Chinese. Our platform features local themes and music, creating a familiar and enjoyable
+							atmosphere for our players.
 						</p>
 
-						<p style="width: 200px; height: 100px;">
-							<iframe
-								src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d31872.4093470772!2d101.674628!3d3.081017!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1svi!2sus!4v1720749822553!5m2!1svi!2sus"
-								width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
-								referrerpolicy="no-referrer-when-downgrade"></iframe>
+						<br>
+
+						<h2>How to Get Started</h2>
+						<h3>1. Register via WhatsApp</h3>
+						<ul>
+							<li>Visit our website: <b>100-cuci.com</b> and click on the "Register" button.</li>
+							<li>A new window will open, allowing you to send a WhatsApp message to our
+								registration bot.</li>
+							<li>Type "Join" in the chat, and you'll receive your <b>100Cuci login</b>
+								information
+								shortly.</li>
+						</ul>
+
+						<h3>2. Make Your First Deposit</h3>
+						<ul>
+							<li>Choose from various deposit methods, including <b>100Cuci ewallet</b> like GrabPay and
+								Touch 'n
+								Go, bank transfers, and credit/debit cards.</li>
+							<li>Benefit from our welcome bonus on your initial deposit.
+							</li>
+						</ul>
+
+						<h3>3. Start Playing with 100Cuci Net</h3>
+						<ul>
+							<li>Explore our extensive game library and find your favorites with <b>100Cuci log in.</b>
+							</li>
+							<li>Enjoy daily promotions and make the most of our bonuses.</li>
+						</ul>
+
+						<br>
+
+						<p>Join us today and experience the best in online gaming. With our extensive game
+							selection, generous bonuses, and dedicated support, your perfect online casino experience is
+							just a click away. Get started and claim your <b>100Cuci Free Kredit</b> now!
 						</p>
 
+						<br>
 
-						<p><a href="https://www.dmca.com/Protection/Status.aspx?ID=1cf5d6f7-4fbe-4514-98c8-b0e0f23439b1&refurl=https://100cuci.info/"
-								target="_blank"><img src="/public/image/dmca_protected_sml_120c.png"></a></p>
+						<p><a href="//www.dmca.com/Protection/Status.aspx?ID=072974b1-54f6-4160-ba79-a565ba9849a3"
+								title="DMCA.com Protection Status" class="dmca-badge"> <img
+									src="/public/image/dmca-badge.png" alt="DMCA.com Protection Status" /></a>
+						</p>
 
-						<h5>Learn more about our big parner:</h5>
-						<p><a class="text2" href="https://www.winbox88my1.com/winbox-login">Winbox Login</a> 3.0 |
-							Winbox
-							Mobile
-							Login 2024 | Winbox88 H5 |
-							Winbox Mobile Login 2024, access Winbox
-							H5 3.0 Web Version now. No download needed, Winbox88 casino is your best choice being the
-							top
-							casino
-							game provider in Malaysia.</p>
+						<p style="font-weight: 700;">Learn more about our Big Partner:</p>
+						<p><a class="text2" href="https://www.atascasinobet.com/">Atas Login</a> |
+							Atas Mobile Login Casino 2024 | Explore the new Atas Casino h3 3.0 web version today! No
+							downloads required. As Malaysia's leading casino game provider, Atas Casino is your top
+							choice for an unparalleled gaming experience.
+						</p>
 
-						<p>OFFICIAL <a class="text2" href="https://www.winbox8.my/">WINBOX</a> 2024 | Winbox88. Top
-							leading
-							Online Casino in Malaysia
-							2024. Play with Winbox games
-							for all Playtech, Lion King, Lucky365, SBObet, Maxbet, KingMaker, Spade Gaming, AE Sexy and
-							other
-							well-known gaming provider brands. With a single account, you may bet on dozens of odds over
-							thousands of games.</p>
+						<p><a class="text2" href="https://www.ataskasino.com/">Atas Online Casino Malaysia</a>
+							| AtasKasino. Kasino Dalam Talian Terunggul di Malaysia 2024. Mainkan Permainan Terhangat
+							Atas seperti Slot Monkey King, Lucky365 Slot, Slot Lion King APK, BG (Big Gaming), HotRoad
+							Baccarat dan lain-lain dari penyedia permainan terkenal di Kasino Rasmi Atas. Dengan satu
+							akaun, anda boleh bertaruh pada puluhan peluang dalam ribuan permainan.
+						</p>
 					</div>
 				</div>
 
 				<div class="icon_col">
 					<div class="icon">
 						<!--Telegram icon-->
-						<a href="https://t.me/kk8official" target="_blank"> <span
+						<a href="https://t.me/atas77channel" target="_blank"> <span
 								class="chaty-icon channel-icon-Telegram">
 								<span class="chaty-svg">
 									<svg width="39" height="39" viewBox="0 0 39 39" fill="none"
@@ -234,14 +263,17 @@
 						</a>
 
 
-						<!--facebook icon-->
-						<a href="https://www.facebook.com/um.kk8/" target="_blank"><img width="40px"
-								src="/public/image/Facebook_icon.png"></a>
+						<!--Twitter icon-->
+						<a style="background-color: white; border-radius: 40px; text-align: -webkit-center;"
+							href=" https://x.com/atascasinomy" target="_blank"><svg xmlns="http://www.w3.org/2000/svg"
+								width="20" height="39" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+								<path
+									d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334q.002-.211-.006-.422A6.7 6.7 0 0 0 16 3.542a6.7 6.7 0 0 1-1.889.518 3.3 3.3 0 0 0 1.447-1.817 6.5 6.5 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.32 9.32 0 0 1-6.767-3.429 3.29 3.29 0 0 0 1.018 4.382A3.3 3.3 0 0 1 .64 6.575v.045a3.29 3.29 0 0 0 2.632 3.218 3.2 3.2 0 0 1-.865.115 3 3 0 0 1-.614-.057 3.28 3.28 0 0 0 3.067 2.277A6.6 6.6 0 0 1 .78 13.58a6 6 0 0 1-.78-.045A9.34 9.34 0 0 0 5.026 15" />
+							</svg></a>
 
 
 						<!--whatsapp icon-->
-						<a href="https://api.whatsapp.com/send/?phone=601135220768&text&type=phone_number&app_absent=0"
-							target="_blank">
+						<a href="https://rebrand.ly/ATASxSEO2P" target="_blank">
 							<span class="chaty-icon channel-icon-Whatsapp">
 								<span class="chaty-svg">
 									<svg width="39" height="39" viewBox="0 0 39 39" fill="none"
@@ -287,6 +319,13 @@ export default {
 	components: {
 		Left,
 		Right
+	}, methods: {
+		scrollTo(id) {
+			const element = document.getElementById(id);
+			if (element) {
+				element.scrollIntoView({ behavior: 'smooth' });
+			}
+		}
 	}
 
 };
@@ -297,21 +336,21 @@ export default {
 	display: grid;
 	gap: 0.5rem;
 	position: fixed;
-	bottom: 186px;
+	bottom: 230px;
 	left: 16px;
 	z-index: 9999;
 }
 
-@media screen and (max-width:425px) {
-	.icon_col {
-		bottom: 220px;
-	}
-}
+
 
 .icon {
 	display: grid;
 	position: absolute;
 	gap: 0.5rem;
+}
+
+.nav-item {
+	font-weight: bolder;
 }
 
 .chaty-icon.channel-icon-Facebook {
@@ -349,19 +388,21 @@ export default {
 
 .nav-pills {
 	--bs-nav-pills-link-active-bg: #31CD84;
-	color: white;
 	font-size: 12px;
 }
 
+.nav-link {
+	color: #666666D9;
+	/* 默认状态下的字体颜色 */
+}
 
+.nav-link.active {
+	color: #ffffff;
+	/* 激活状态下的字体颜色 */
+}
 
 .nav-link.active {
 	border-radius: 30px;
-}
-
-.menu-text {
-	color: #666666D9;
-	font-weight: 600;
 }
 
 .menu_col {
@@ -416,6 +457,21 @@ export default {
 .text2 {
 	text-decoration: none;
 	font-weight: bolder;
-	color: #F0D843
+	color: #ef7a43;
+}
+
+h1 {
+	font-size: 25px;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 23px;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: 700;
 }
 </style>

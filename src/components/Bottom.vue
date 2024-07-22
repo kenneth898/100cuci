@@ -5,33 +5,47 @@
 				<div class="container-fluid d-flex justify-content-center">
 					<div class="menu d-flex justify-content-around w-100">
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" href="https://kk8.my/register" target="_blank"><img width="100%"
+							<a class="nav-link" href="https://www.atascasinobet.com/" target="_blank"><img width="100%"
 									class="nav-icon" src="/public/image/icon_footer_gift_home.png" alt="Home Icon"></a>
-							<p>HOME</p>
+							<a class="nav-link" href="https://www.atascasinobet.com/" target="_blank">
+								<p>HOME</p>
+							</a>
 						</div>
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" href="https://kk8.my/register" target="_blank"><img width="100%"
-									class="nav-icon" src="/public/image/livechat.png" alt="Live Chat Icon"></a>
-							<p>LIVE CHAT</p>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank"><img
+									width="100%" class="nav-icon" src="/public/image/livechat.png"
+									alt="Live Chat Icon"></a>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank">
+								<p>LIVE CHAT</p>
+							</a>
 						</div>
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" href="https://kk8.my/register" target="_blank"><img width="50%"
-									class="nav-icon bonus_img" src="/public/image/bonus.png" alt="Bonus Icon"></a>
-							<p>BONUS</p>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank"><img
+									width="50%" class="nav-icon bonus_img" src="/public/image/bonus.png"
+									alt="Bonus Icon"></a>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank">
+								<p>BONUS</p>
+							</a>
 						</div>
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" href="https://kk8.my/register" target="_blank"><img width="100%"
-									class="nav-icon" src="/public/image/history.png" alt="History Icon"></a>
-							<p>HISTORY</p>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank"><img
+									width="100%" class="nav-icon" src="/public/image/history.png"
+									alt="History Icon"></a>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank">
+								<p>HISTORY</p>
+							</a>
 						</div>
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" href="https://kk8.my/register" target="_blank"><img width="100%"
-									class="nav-icon" src="/public/image/setting.png" alt="Setting Icon"></a>
-							<p>SETTING</p>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank"><img
+									width="100%" class="nav-icon" src="/public/image/setting.png"
+									alt="Setting Icon"></a>
+							<a class="nav-link" href="https://www.atascasinobet.com/sign-up" target="_blank">
+								<p>SETTING</p>
+							</a>
 						</div>
 					</div>
 				</div>

@@ -2,13 +2,13 @@
 	<div class="left_col">
 		<div class="col-12">
 			<div class="row">
-				<!--Free Credit-->
-				<a href="https://kk8.my/register" target="_blank"><img width="100%"
-						src="/public/image/KK8-Free-Credit-RM10.gif"></a>
+				<!--One Stop Gaming Platform-->
+				<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
+						src="/public/image/atas_one_stop_platform.jpg"></a>
 				<br><br>
-				<!--Grand Launch-->
-				<a href="https://kk8.my/register" target="_blank"><img width="100%"
-						src="/public/image/Grand-Launch.webp"></a>
+				<!--188% Welcome Bonus-->
+				<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
+						src="/public/image/188welcome_bonus.jpg"></a>
 
 				<!--Bank Logo-->
 				<img width="100%" src="/public/image/bank_logo.png">
@@ -19,32 +19,32 @@
 
 				<!--hide on mobile-->
 				<div class="hide_mobile">
-					<!--Free RM55-->
-					<a href="https://kk8.my/register" target="_blank"><img width="100%"
-							src="/public/image/Free-RM55.gif"></a>
+					<!--188% welcome bonus-->
+					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
+							src="/public/image/Atas-Post-Banner-(Eng).jpg"></a>
 
-					<!--Klaim Free Kredit-->
-					<a href="https://kk8.my/register" target="_blank"><img width="100%"
-							src="/public/image/klaim-freecredit-rm10.gif"></a>
+					<!--baccarat largest bonus-->
+					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
+							src="/public/image/challenge.jpg"></a>
 
-					<!--388 Welcome Bonus-->
-					<a href="https://kk8.my/register" target="_blank"><img width="100%"
-							src="/public/image/388-Welcome-Bonus.webp"></a>
+					<!--check in rm388-->
+					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
+							src="/public/image/check_in.jpg"></a>
 
 					<!--Share & Downline & Copy Link button-->
 					<div class="btn_left">
-						<a href="https://kk8.my/register" target="_blank"><img width="50%"
+						<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="50%"
 								src="/public/image/share_btn.gif"></a>
-						<a href="https://kk8.my/register" target="_blank"><img width="50%"
+						<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="50%"
 								src="/public/image/downline_btn.gif"></a>
-						<a href="https://kk8.my/register" target="_blank"><img width="50%"
+						<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="50%"
 								src="/public/image/copylink_btn.gif"></a>
 					</div>
 
 					<!--Lucky Draw Deposit-->
 					<img width="100%" src="/public/image/lucky_draw_deposit.png">
 					<!--Telegram-->
-					<a href="https://t.me/kk8officialcs" target="_blank"><img width="100%"
+					<a href="https://t.me/atas77channel" target="_blank"><img width="100%"
 							src="/public/image/telegram.png"></a>
 					<!--Free video xxx-->
 					<img width="100%" src="/public/image/free_video_xxx.gif">
