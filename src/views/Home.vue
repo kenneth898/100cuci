@@ -235,17 +235,21 @@
 										src="/public/image/dmca-badge.png" alt="DMCA.com Protection Status" /></a>
 							</p>
 
-							<p style="font-weight: 700;">{{ $t('BigPartner.Title1') }}</p>
-							<p><a class="text2" href="https://www.atascasinobet.com/">
+							<p style="font-weight: 700;">
+								{{ $t('BigPartner.Title1') }}
+							</p>
+							<p>
+								<a class="text2" href="https://www.atascasinobet.com/">
 									{{ $t('BigPartner.Text1') }}
 								</a>
-								{{ $t('BigPartner.Text2') }}
+								| {{ $t('BigPartner.Text2') }}
 							</p>
 
-							<p><a class="text2" href="https://www.ataskasino.com/">
+							<p>
+								<a class="text2" href="https://www.ataskasino.com/">
 									{{ $t('BigPartner.Text3') }}
 								</a>
-								{{ $t('BigPartner.Text4') }}
+								| {{ $t('BigPartner.Text4') }}
 							</p>
 						</article>
 					</div>
