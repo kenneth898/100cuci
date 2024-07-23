@@ -1,20 +1,32 @@
 <template>
 	<div class="right_col">
-		<!--Daily unlimited top up bonus-->
-		<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-				src="/public/image/daily_top_up_bonus.jpg"></a>
+		<article>
+			<!--Daily unlimited top up bonus-->
+			<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+					src="/public/image/daily_top_up_bonus.jpg" alt="Daily unlimited top up bonus"></a>
+		</article>
+
+
+
+
 		<div class="col-12">
 			<div class="row">
 				<div class="col-6">
-					<!--Login btn-->
-					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-							src="/public/image/login_btn.gif"></a>
+					<article>
+						<!--Login btn-->
+						<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+								src="/public/image/login_btn.gif" alt="Login btn"></a>
+					</article>
+
 				</div>
 
 				<div class="col-6">
-					<!--Register btn-->
-					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-							src="/public/image/register_btn.gif"></a>
+					<article>
+						<!--Register btn-->
+						<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+								src="/public/image/register_btn.gif" alt="Register btn"></a>
+					</article>
+
 				</div>
 			</div>
 
@@ -23,71 +35,87 @@
 		<div style="display: flex; margin-top: 10px;" class="col-12">
 			<div class="row">
 				<div class="col-6">
-					<p class="text">Baki: <strong>RM0.00</strong></p>
+					<article>
+						<p class="text">{{ $t('right.baki') }}: <strong>RM0.00</strong></p>
+					</article>
+
 
 					<!--Deposit & Withdraw-->
 					<div class="">
-						<p class="text">Deposit Minimum: <strong>RM1.00</strong></p>
-						<p class="text2">Withdraw Minimum: <strong>RM25.00</strong></p>
+						<article>
+							<p class="text">{{ $t('right.deposit') }}: <strong>RM1.00</strong></p>
+							<p class="text2">{{ $t('right.withdraw') }}: <strong>RM25.00</strong></p>
+						</article>
+
 					</div>
 				</div>
 				<div class="col-6">
-					<!--Deposit btn-->
-					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-							src="/public/image/deposit_btn.gif"></a>
-					<br>
-					<!--Withdraw btn-->
-					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-							src="/public/image/withdraw_btn.gif"></a>
-					<br>
-					<!--Refresh btn-->
-					<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-							src="/public/image/refresh_btn.gif"></a>
+					<article>
+						<!--Deposit btn-->
+						<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+								src="/public/image/deposit_btn.gif" alt="Deposit btn"></a>
+						<br>
+						<!--Withdraw btn-->
+						<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+								src="/public/image/withdraw_btn.gif" alt="Withdraw btn"></a>
+						<br>
+						<!--Refresh btn-->
+						<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+								src="/public/image/refresh_btn.gif" alt="Refresh btn"></a>
+					</article>
 				</div>
 			</div>
-			<!--baki-->
-
 		</div>
 
 		<div class="">
-			<!--Game Tips X Bet Ratio-->
-			<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-					src="/public/image/game_tips_x_bet_ratio.gif"></a>
+			<article>
+				<!--Game Tips X Bet Ratio-->
+				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+						src="/public/image/game_tips_x_bet_ratio.gif" alt="Game Tips X Bet Ratio"></a>
 
 
-			<!--percuma rm88-->
-			<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-					src="/public/image/RM88.jpg"></a>
+				<!--welcome bonus 188%-->
+				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+						src="/public/image/Atas-Post-Banner-(Eng).jpg" alt="welcome bonus"></a>
 
-			<!--check in rm388-->
-			<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-					src="/public/image/check_in.jpg"></a>
+				<!--percuma rm88-->
+				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+						src="/public/image/RM88.jpg" alt="percuma rm88"></a>
+			</article>
+
 		</div>
 
 
 		<div class="d-block d-md-none">
-			<!--baccarat largest bonus-->
-			<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
-					src="/public/image/challenge.jpg"></a>
+			<article>
+				<!--baccarat largest bonus-->
+				<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="100%"
+						src="/public/image/challenge.jpg" alt="baccarat largest bonus"></a>
 
-			<!--Share & Downline & Copy Link button-->
-			<div class="btn_left">
-				<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="50%"
-						src="/public/image/share_btn.gif"></a>
-				<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="50%"
-						src="/public/image/downline_btn.gif"></a>
-				<a href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="50%"
-						src="/public/image/copylink_btn.gif"></a>
-			</div>
+				<!--Share & Downline & Copy Link button-->
+				<div class="btn_left">
+					<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="50%"
+							src="/public/image/share_btn.gif" alt="Share"></a>
+					<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="50%"
+							src="/public/image/downline_btn.gif" alt="Downline"></a>
+					<a href="https://www.atascasinobet.com/sign-up" rel="nofollow" target="_blank"><img width="50%"
+							src="/public/image/copylink_btn.gif" alt="Copy Link button"></a>
+				</div>
 
-			<!--Lucky Draw Deposit-->
-			<img width="100%" src="/public/image/lucky_draw_deposit.png">
-			<!--Telegram-->
-			<a href="https://t.me/atas77channel" target="_blank"><img width="100%" src="/public/image/telegram.png"></a>
+				<!--Lucky Draw Deposit-->
+				<img width="100%" src="/public/image/lucky_draw_deposit.png" alt="Lucky Draw Deposit">
+				<!--Telegram-->
+				<a href="https://t.me/atas77channel" rel="nofollow" target="_blank"><img width="100%"
+						src="/public/image/telegram.png" alt="Telegram"></a>
+			</article>
 			<!--Free video xxx-->
-			<img width="100%" src="/public/image/free_video_xxx.gif">
-			<!--Predit & Win-->
-			<img width="100%" src="/public/image/predict&win.gif">
+			<img width="100%" src="/public/image/free_video_xxx.gif" alt="Free video xxx">
+
+			<article>
+				<!--Predit & Win-->
+				<img width="100%" src="/public/image/predict&win.gif" alt="Predit & Win">
+			</article>
+
 		</div>
 
 	</div>
