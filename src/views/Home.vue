@@ -242,7 +242,8 @@
 								<a class="text2" href="https://www.atascasinobet.com/">
 									{{ $t('BigPartner.Text1') }}
 								</a>
-								| {{ $t('BigPartner.Text2') }}
+								| {{ $t('BigPartner.Text2') }}|
+								{{ $t('BigPartner.Text5') }}
 							</p>
 
 							<p>
