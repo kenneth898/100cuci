@@ -5,7 +5,7 @@
 				<div class="container-fluid d-flex justify-content-center">
 					<div class="menu d-flex justify-content-around w-100">
 						<div class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" alt="Home" href="https://www.atascasinobet.com/"
+							<a class="nav-link" rel="nofollow" alt="Home" href="https://www.atascasinobet1.com/"
 								target="_blank"><img width="100%" class="nav-icon"
 									src="/public/image/icon_footer_gift_home.png" alt="Home Icon"></a>
 							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/" target="_blank">
@@ -14,20 +14,20 @@
 						</div>
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank"><img width="100%" class="nav-icon" src="/public/image/livechat.png"
 									alt="Live Chat Icon"></a>
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank">
 								<p>{{ $t('navbar.LIVECHAT') }}</p>
 							</a>
 						</div>
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" alt="bonus" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" alt="bonus" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank"><img width="50%" class="nav-icon bonus_img"
 									src="/public/image/bonus.png" alt="Bonus Icon"></a>
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								target="_blank">
 								<p>{{ $t('navbar.BONUS') }}</p>
 							</a>
@@ -35,21 +35,21 @@
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
 							<a class="nav-link" rel="nofollow" alt="history"
-								href="https://www.atascasinobet.com/sign-up" target="_blank"><img width="100%"
+								href="https://www.atascasinobet1.com/sign-up" target="_blank"><img width="100%"
 									class="nav-icon" src="/public/image/history.png" alt="History Icon"></a>
 							<a class="nav-link" rel="nofollow" alt="history" href="
-								https://www.atascasinobet.com/sign-up" target="_blank">
+								https://www.atascasinobet1.com/sign-up" target="_blank">
 								<p>{{ $t('navbar.HISTORY') }}</p>
 							</a>
 						</div>
 						<div style="gap: 0.5rem;"
 							class="nav-item d-flex flex-column align-items-center text-center column-height">
-							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet.com/sign-up"
+							<a class="nav-link" rel="nofollow" href="https://www.atascasinobet1.com/sign-up"
 								alt="setting" target="_blank"><img width="100%" class="nav-icon"
 									src="/public/image/setting.png" alt="Setting Icon"></a>
 
 							<a class="nav-link" rel="nofollow" alt="setting"
-								href="https://www.atascasinobet.com/sign-up" target="_blank">
+								href="https://www.atascasinobet1.com/sign-up" target="_blank">
 								<p>{{ $t('navbar.SETTING') }}</p>
 							</a>
 						</div>
