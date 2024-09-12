@@ -2,7 +2,7 @@
 	<div class="right_col">
 		<article>
 			<!--Daily unlimited top up bonus-->
-			<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+			<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 					src="/public/image/daily_top_up_bonus.jpg" alt="Daily unlimited top up bonus"></a>
 		</article>
 
@@ -14,7 +14,7 @@
 				<div class="col-6">
 					<article>
 						<!--Login btn-->
-						<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+						<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 								src="/public/image/login_btn.gif" alt="Login btn"></a>
 					</article>
 
@@ -23,7 +23,7 @@
 				<div class="col-6">
 					<article>
 						<!--Register btn-->
-						<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+						<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 								src="/public/image/register_btn.gif" alt="Register btn"></a>
 					</article>
 
@@ -52,15 +52,15 @@
 				<div class="col-6">
 					<article>
 						<!--Deposit btn-->
-						<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+						<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 								src="/public/image/deposit_btn.gif" alt="Deposit btn"></a>
 						<br>
 						<!--Withdraw btn-->
-						<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+						<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 								src="/public/image/withdraw_btn.gif" alt="Withdraw btn"></a>
 						<br>
 						<!--Refresh btn-->
-						<a :href="link + '/sign-up'" rel=" nofollow" target="_blank"><img width="100%"
+						<a :href="link + 'sign-up'" rel=" nofollow" target="_blank"><img width="100%"
 								src="/public/image/refresh_btn.gif" alt="Refresh btn"></a>
 					</article>
 				</div>
@@ -70,16 +70,16 @@
 		<div class="">
 			<article>
 				<!--Game Tips X Bet Ratio-->
-				<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+				<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 						src="/public/image/game_tips_x_bet_ratio.gif" alt="Game Tips X Bet Ratio"></a>
 
 
 				<!--welcome bonus 188%-->
-				<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+				<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 						src="/public/image/Atas-Post-Banner-(Eng).jpg" alt="welcome bonus"></a>
 
 				<!--percuma rm88-->
-				<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+				<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 						src="/public/image/RM88.jpg" alt="percuma rm88"></a>
 			</article>
 
@@ -89,16 +89,16 @@
 		<div class="d-block d-md-none">
 			<article>
 				<!--baccarat largest bonus-->
-				<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="100%"
+				<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="100%"
 						src="/public/image/challenge.jpg" alt="baccarat largest bonus"></a>
 
 				<!--Share & Downline & Copy Link button-->
 				<div class="btn_left">
-					<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="50%"
+					<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="50%"
 							src="/public/image/share_btn.gif" alt="Share"></a>
-					<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="50%"
+					<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="50%"
 							src="/public/image/downline_btn.gif" alt="Downline"></a>
-					<a :href="link + '/sign-up'" rel="nofollow" target="_blank"><img width="50%"
+					<a :href="link + 'sign-up'" rel="nofollow" target="_blank"><img width="50%"
 							src="/public/image/copylink_btn.gif" alt="Copy Link button"></a>
 				</div>
 
