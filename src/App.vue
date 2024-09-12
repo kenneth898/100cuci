@@ -17,13 +17,11 @@
 <script>
 import Bottom from './components/Bottom.vue';
 import Top from './components/Top.vue';
-import Left from './components/Left.vue';
 export default {
 	name: 'App',
 	components: {
 		Bottom,
-		Top,
-		Left
+		Top
 	}
 };
 </script>
