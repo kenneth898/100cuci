@@ -1,21 +1,24 @@
-// src/router/index.js
 import { createRouter, createWebHistory } from 'vue-router';
-import Home from '../views/Home.vue'; // Example component
-
+import HomePage from '../views/Home.vue';
+import NotFound from '@/views/404.vue';
 
 const routes = [
 	{
 		path: '/',
 		name: 'Home',
-		component: Home
+		component: HomePage
+	},
+	{
+		path: '/:pathMatch(.*)*',
+		name: 'NotFound',
+		component: NotFound
 	}
-
-	// Add more routes as needed
-];
+	// Add more routes here
+]
 
 const router = createRouter({
-	history: createWebHistory(import.meta.env.BASE_URL),
+	history: createWebHistory(),
 	routes,
-});
+})
 
-export default router;
+export default router
