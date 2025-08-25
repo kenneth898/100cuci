@@ -242,7 +242,7 @@
 								<a :href="link" class="text2">
 									{{ $t('BigPartner.Text1') }}
 								</a>
-								| {{ $t('BigPartner.Text2') }}|
+								| {{ $t('BigPartner.Text2', { year: new Date().getFullYear() }) }}|
 								{{ $t('BigPartner.Text5') }}
 							</p>
 
@@ -250,7 +250,7 @@
 								<a :href="link2" class="text2">
 									{{ $t('BigPartner.Text3') }}
 								</a>
-								| {{ $t('BigPartner.Text4') }}
+								| {{ $t('BigPartner.Text4', { year: new Date().getFullYear() }) }}
 							</p>
 						</article>
 					</div>
